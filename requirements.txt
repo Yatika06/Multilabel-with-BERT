@@ -1,0 +1,8 @@
+python==3.8.16
+transformers==4.27.3
+torch==2.0.0
+torchvision==0.15.1
+torchaudio==2.0.1
+chardet==5.1.0
+pandas==1.5.3
+-e .

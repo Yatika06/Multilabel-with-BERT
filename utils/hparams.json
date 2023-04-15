@@ -1,0 +1,11 @@
+{
+  "max_len": 250,
+  "drop_out": 0.5,
+  "train_batch_size": 32,
+  "valid_batch_size": 32,
+  "learning_rate": 1e-05,
+  "n_epoch": 2,
+  "data_path": "/Users/yatikapaliwal/PycharmProjects/Multilabel-with-BERT/data/preprocessed/processed.csv",
+  "checkpoint_path": "/Users/yatikapaliwal/PycharmProjects/Multilabel-with-BERT/model/checkpoint/current_checkpoint.pt",
+  "best_model_path": "/Users/yatikapaliwal/PycharmProjects/Multilabel-with-BERT/model/best_model/best_model.pt"
+}
